@@ -28,7 +28,7 @@ pip install borschscript
 
 ### From GitHub Releases
 
-1. Go to the [Releases](https://github.com/your-username/borshscript/releases) page.
+1. Go to the [Releases](https://github.com/Iced-Coded/borshscript/releases) page.
 2. Download the latest `.whl` package (or the standalone executable for your OS).
 3. If using the `.whl` package, install it using `pip`:
 
