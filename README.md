@@ -40,7 +40,7 @@ pip install borschscript-[version]-py3-none-any.whl
 Clone the repository and install it locally using `pip`:
 
 ```bash
-git clone [https://github.com/Iced-Coded/borshscript.git](https://github.com/Iced-Coded/borshscript.git)
+git clone https://github.com/Iced-Coded/borshscript.git
 cd borshscript
 pip install -e .
 ```
