@@ -34,4 +34,4 @@ jobs:
 
     - name: Test BorschScript execution
       run: |
-        borsch example.brsh --debug
+        borsch tests/test.brsh --debug
