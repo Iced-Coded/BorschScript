@@ -33,7 +33,7 @@ pip install borschscript
 3. If using the `.whl` package, install it using `pip`:
 
 ```bash
-pip install borschscript-0.1.1-py3-none-any.whl
+pip install borschscript-[version]-py3-none-any.whl
 ```
 
 ### From Source
