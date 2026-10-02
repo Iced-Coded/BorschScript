@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "borschscript"
+version = "0.1.1"
+description = "An esoteric XMLlike joke programming language in Ukrainian."
+readme = "README.md"
+requires-python = ">=3.8"
+
+[project.scripts]
+borsch = "borsch.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["borsch*"]
